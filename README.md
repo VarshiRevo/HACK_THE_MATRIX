@@ -126,12 +126,16 @@ MAIN PAGE:
 
 - [@WebRevo](https://github.com/WebRevo)
 
+## Contributor
+
+- [@VarshiRevo](https://github.com/WebRevo)
 
 ## Support
 
 For support,
 Email :
-sarathi2021ai@gmail.com
+sarathi2021ai@gmail.com,
+varshigaps04.ai@gmail.com
 
 OR
 
